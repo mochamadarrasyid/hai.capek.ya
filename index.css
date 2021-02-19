@@ -1,0 +1,58 @@
+.ig-logo{
+    text-decoration: none;
+    border-radius: 16px;
+    padding: 13px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 600;
+    background: #515bd4;
+    border: 0px solid;
+    color: white;
+    box-shadow: 1px 1px 3px 3px rgb(231, 231, 231);
+}
+.ig-logo:hover{
+    box-shadow: 2px 2px 4px 4px rgb(231, 231, 231);
+    cursor: pointer;
+}
+.ig-logo i{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    margin-bottom: -10px;
+    margin-top: 10px;
+}
+.ig{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+.git-logo{
+    text-decoration: none;
+    color: white;
+    background: black;
+    border: 0px solid;
+    box-shadow: 1px 1px 3px 3px rgb(231, 231, 231);
+    border-radius: 16px;
+    padding-left: 23px;
+    padding-right: 23px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 600;
+}
+.git-logo:hover{
+    box-shadow: 2px 2px 4px 4px rgb(231, 231, 231);
+    cursor: pointer;
+}
+.git-logo i{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    margin-bottom: -10px;
+}
+.git{
+    display: flex;
+    justify-content: center;
+}
+.links{
+    margin-top: 200px;
+}
